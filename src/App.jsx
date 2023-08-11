@@ -1,9 +1,14 @@
 import './App.css'
-import Logo from './components/Logo'
+import DiamondButton from './parts/DiamondButton'
+
 
 function App() {
   return (
-    <Logo/>
+    <>
+    <DiamondButton color="red"/>
+    <DiamondButton color="yellow"/>
+    <h1>Component 과제</h1>
+    </>
   )
 }
 
