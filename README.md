@@ -6,11 +6,10 @@
 
 ## :camera: 결과 스크린샷
 ![Alt text](image-2.png)
-![Alt text](image-1.png)
+![Alt text](image-3.png)
 
 ## :speech_balloon: 코드리뷰
 - DiamondButton 컴포넌트 사용시 color를 지정해주면 색상 변경
-  (빨강, 노랑만 구현)
   ```js
     import './App.css'
     import DiamondButton from './parts/DiamondButton'
@@ -20,6 +19,7 @@
       return (
         <>
         <DiamondButton color="red"/>
+        <DiamondButton color="orange"/>
         <DiamondButton color="yellow"/>
         <h1>Component 과제</h1>
         </>

@@ -6,6 +6,7 @@ function App() {
   return (
     <>
     <DiamondButton color="red"/>
+    <DiamondButton color="orange"/>
     <DiamondButton color="yellow"/>
     <h1>Component 과제</h1>
     </>
