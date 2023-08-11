@@ -28,12 +28,7 @@ function DiamondButton({color}) {
       default:
         colorRGB = '#FF0000';
     }
-    // if (color === 'red') {
-    //   colorRGB = '#FF0000';
-    // } else {
-    //   colorRGB = '#FFFF00';
-    // }
-    // console.log(colorRGB);
+
     return colorRGB;
   };
 
