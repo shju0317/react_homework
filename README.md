@@ -5,6 +5,7 @@
 :link: [Figma 컴포넌트 설계](https://www.figma.com/file/2yUmCuWMsTZ7jY86jXH3cH/Homework%3A-Component?type=design&node-id=0%3A1&mode=design&t=Tn4PORD6e29JJdIM-1)
 
 ## :camera: 결과 스크린샷
+![Alt text](image-2.png)
 ![Alt text](image-1.png)
 
 ## :speech_balloon: 코드리뷰
