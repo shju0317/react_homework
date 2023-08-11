@@ -1,6 +1,6 @@
 function DiamondButton({color}) {
 
-  let colorRGB = '#FF0000';
+  let colorRGB = '';
 
   const setColorButton = () => {
     switch(color){

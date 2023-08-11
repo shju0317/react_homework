@@ -18,10 +18,11 @@
     function App() {
       return (
         <>
-        <DiamondButton color="red"/>
-        <DiamondButton color="orange"/>
-        <DiamondButton color="yellow"/>
-        <h1>Component 과제</h1>
+          <DiamondButton/>
+          <DiamondButton color="orange"/>
+          <DiamondButton color="yellow"/>
+          <DiamondButton color="green"/>
+          <h1>Component 과제</h1>
         </>
       )
     }
@@ -31,7 +32,7 @@
   ```js
   function DiamondButton({color}) {
 
-    let colorRGB = '#FF0000';
+    let colorRGB = '';
 
     const setColorButton = () => {
       switch(color){
