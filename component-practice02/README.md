@@ -1,8 +1,8 @@
-# React + Vite
+# :punch: FE School 6기 - React 과제  :punch:
+ 
+## :fire: mission 2.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## :camera: 결과 스크린샷
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## :speech_balloon: 코드리뷰
