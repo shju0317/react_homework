@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="h-24 bg-orange-500 text-white px-8">
+    <footer className="bg-orange-500 text-white px-40 py-7 mt-10">
       <ul className="flex justify-between">
         <li><a src="#">CONTACT US</a></li>
         <li><a src="#">SHOP</a></li>

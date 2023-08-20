@@ -23,7 +23,7 @@ function ProductList() {
   }
 
   return (
-    <ul className="grid grid-cols-3 m-10">
+    <ul className="grid grid-cols-3 mx-40 gap-x-10 gap-y-3">
       {data &&
         data.items &&
         data.items?.map((item) => <ProductItem key={item.id} item={item} />)}
